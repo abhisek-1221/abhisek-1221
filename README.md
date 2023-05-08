@@ -2,6 +2,8 @@
 <h3 align="center">Backend Developer and ML enthusiast from India</h3>
 
 - 🌱 I’m currently learning **Deep Learning and NLP**
+- 📚 Ask me about ML , Data Analysis and Data Science
+- 👨🏻‍💻 Learning MERN stack whenever I get free time
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
