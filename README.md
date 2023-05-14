@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abhisek Sahoo</h1>
 <h3 align="center">Backend Developer and ML enthusiast from India</h3>
 
-- 🌱 I’m currently learning **Deep Learning and NLP**
-- 📚 Ask me about ML , Data Analysis and Data Science
+- 🌱 I’m currently into **NLP and Deep Learning**
+- 📊 Ask me about ML , Data Analysis and Data Science
 - 👨🏻‍💻 Learning MERN stack whenever I get free time
+- 📚 First Year Btech Student in the department of Computer Science and Engineering
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
