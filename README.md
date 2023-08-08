@@ -3,7 +3,7 @@
 
 - 🌱 Areas of interest **NLP and Deep Learning**
 - 📊 I’m currently into ML , Data Analysis and Data Science
-- 👨🏻‍💻 Learning MERN stack whenever I get free time
+- 👨🏻‍💻 I like backend developement and Devops 
 - 📚 First Year Btech Student in the department of Computer Science and Engineering
 
 <h3 align="left">Connect with me:</h3>
