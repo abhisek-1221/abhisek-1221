@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhisek Sahoo</h1>
-<h3 align="center">Backend Developer and ML enthusiast from India</h3>
+<h3 align="center">Backend Developer and ML enthusiast </h3>
 
 - 🌱 Areas of interest **NLP and Deep Learning**
 - 📊 I’m currently into ML , Data Analysis and Data Science
