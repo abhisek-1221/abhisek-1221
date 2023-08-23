@@ -4,8 +4,7 @@
 - 🌱 Areas of interest **NLP and Deep Learning**
 - 📊 I’m currently into ML , Data Analysis and Data Science
 - 👨🏻‍💻 I like backend developement and Devops 
-- 📚 First Year Btech Student in the department of Computer Science and Engineering
-
+- 📚 CS Sophomore
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@abhisektwts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abhisektwts" height="30" width="40" /></a>
