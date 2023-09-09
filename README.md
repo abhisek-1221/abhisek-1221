@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer and ML enthusiast </h3>
 
 - 🌱 Areas of interest **NLP and Deep Learning**
-- 📊 I’m currently into ML , Data Analysis and Data Science
+- 📊 I’m currently into ML and Web Development
 - 👨🏻‍💻 I like backend developement and Devops 
 - 📚 CS Sophomore
 <h3 align="left">Connect with me:</h3>
