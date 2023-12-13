@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhisek Sahoo</h1>
-<h3 align="center">Backend Developer and ML enthusiast </h3>
 
-- 🌱 Areas of interest **NLP and Deep Learning**
-- 📊 I’m currently into ML and Web Development
-- 👨🏻‍💻 I like backend developement and Devops 
+- 🌱 Areas of interest - **NLP**
+- 📊 Noob Dev
+- 👨🏻‍💻 I like backend and Devops 
 - 📚 CS Sophomore
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,8 +20,6 @@
 
 
 # 📊GitHub Stats :
-!![abhisek-1221's Stats](https://github-readme-stats.vercel.app/api?username=abhisek-1221&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abhisek-1221&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhisek-1221&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
