@@ -23,8 +23,3 @@
 ![abhisek-1221's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhisek-1221&theme=outrun&hide_border=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abhisek-1221&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-[![abhisek-1221's GitHub | Languages Over Time](https://stats.quine.sh/abhisek-1221/languages-over-time?theme=dark)](https://quine.sh)
-
