@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abhisek Sahoo</h1>
+> Nothing fancy to write
 
-- 🌱 Areas of interest - **NLP**
-- 📊 Noob Dev
-- 👨🏻‍💻 I like backend and Devops 
-- 📚 CS Sophomore
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@abhisektwts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abhisektwts" height="30" width="40" /></a>
