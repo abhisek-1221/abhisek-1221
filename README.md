@@ -1,6 +1,6 @@
 # 📍 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=ts,django,docker,react,express,flask,git,java,js,linux,mongodb,mysql,nextjs,nodejs,postman,prisma,py,redux,tailwind,tensorflow&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,django,docker,react,express,flask,git,java,js,linux,mongodb,mysql,nextjs,nodejs,postman,fastapi,prisma,py,redux,tailwind,tensorflow,pytorch&perline=11)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats :
